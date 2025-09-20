@@ -5,5 +5,9 @@ Frontend/node_modules/
 Backend/.env
 Frontend/.env
 
+.DS_Store
+dist/
+build/
+
 # Logs
 *.log  
